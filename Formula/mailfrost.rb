@@ -1,9 +1,9 @@
 class Mailfrost < Formula
   desc "Maildir integrity tracking, confidence, and backup"
   homepage "https://github.com/nivoc/mailfrost"
-  url "https://github.com/nivoc/mailfrost/releases/download/v0.1.13/mailfrost_v0.1.13_macos_apple_silicon.zip"
-  sha256 "5afa75d4d1e680721c020b5389e39738437b45fe1703b50f330dfce3df4fee02"
-  version "0.1.13"
+  url "https://github.com/nivoc/mailfrost/releases/download/v0.1.14/mailfrost_v0.1.14_macos_apple_silicon.zip"
+  sha256 "0f88edf4e4e6045bdb45a4126cdad9f2e0856942132d4bf4ca71ed52b9ce6a0a"
+  version "0.1.14"
 
   depends_on arch: :arm64
 
